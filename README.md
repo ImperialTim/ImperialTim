@@ -1,8 +1,8 @@
-Hey! Im ImperialTim!
+Hey! Im Tim!
 
 ```java
-public ImperialTim() {
-    this.name = "Actual name redacted as I'm worried about a few nasty things such as doxing/swatting.";
+public Tim() {
+    this.name = "Full name redacted as I'm worried about a few nasty things such as doxing/swatting.";
     this.age = 14;
     this.occupation = "High school student, pursuing Computer Science.";
 
