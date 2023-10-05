@@ -9,7 +9,7 @@ public class Tim {
     private ArrayList<String> human_langs;
 
     public Tim() {
-        this.name = "Actual name redacted as I'm worried about a few nasty" +
+        this.name = "Full name redacted as I'm worried about a few nasty" +
                     " things such as doxing/swatting.";
         this.age = 14;
         this.occupation = "High school student, pursuing Computer Science.";
