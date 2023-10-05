@@ -1,7 +1,7 @@
 ## Hey! Im Tim!
 
 ```java
-public class ImperialTim {
+public class Tim {
     private String name;
     private int age;
     private String occupation;
