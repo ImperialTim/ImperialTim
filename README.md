@@ -27,4 +27,3 @@ public class ImperialTim {
         human_langs.add("Mandarin - studying");
     }
 }
-```
