@@ -1,16 +1,20 @@
-[![ImperialTim's GitHub stats](https://github-readme-stats.vercel.app/api?username=imperialtim)](https://github.com/anuraghazra/github-readme-stats)
+Hey! Im ImperialTim!
 
-<!--
-**ImperialTim/ImperialTim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```java
+public ImperialTim() {
+    this.name = "Actual name redacted as I'm worried about a few nasty things such as doxing/swatting.";
+    this.age = 14;
+    this.occupation = "High school student, pursuing Computer Science.";
 
-Here are some ideas to get you started:
+    this.programming_langs = new ArrayList<String>();
+    programming_langs.add("Python - Intermediate");
+    programming_langs.add("Java - Beginner-Intermediate");
+    programming_langs.add("C++ - Beginner");
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    this.human_langs = new ArrayList<String>();
+    human_langs.add("English - fluent");
+    human_langs.add("Russian - fluent");
+    human_langs.add("German - fluent");
+    human_langs.add("Spanish - studying");
+    human_langs.add("Mandarin - studying");
+}```
