@@ -1,13 +1,7 @@
-## Hey! Im Tim!
+## Hey! I'm Tim!
 
 ```java
 public class Tim {
-    private String name;
-    private int age;
-    private String occupation;
-    private ArrayList<String> programming_langs;
-    private ArrayList<String> human_langs;
-
     public Tim() {
         this.name = "Full name redacted as I'm worried about a few nasty" +
                     " things such as doxing/swatting.";
@@ -27,3 +21,4 @@ public class Tim {
         human_langs.add("Mandarin - studying");
     }
 }
+```
